@@ -11,8 +11,3 @@
 - 🎓 I'm a graduate in Systems Analysis and Development
 - 🌐 Passionate about tech
 - 💡 I'm always eager to learn new things and grow professionally
-
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=patrickfer&theme=midnight-purple&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickfer&layout=compact&langs_count=6&theme=midnight-purple"/>
-</div>
